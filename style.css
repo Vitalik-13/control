@@ -171,7 +171,7 @@ li.menu:hover ul.drop-menu{
 }
 
 .slick-prev:before {
-  background-image: url(/images/icons8-влево-2-50.png);
+  background-image: url(images/icons8-влево-2-50.png);
 }
 
 .slick-next {
@@ -179,7 +179,7 @@ li.menu:hover ul.drop-menu{
 }
 
 .slick-next:before {
-  background-image: url(/images/icons8-вправо-2-50.png);
+  background-image: url(images/icons8-вправо-2-50.png);
 }
 .ck-dots li button {
   padding: -10px;
