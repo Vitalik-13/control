@@ -144,6 +144,12 @@ li.menu:hover ul.drop-menu{
   border: none;
   z-index: 1;
 }
+.slick-prev{
+  background-image: url(/images/icons8-влево-2-50.png);;
+}
+.slick-next{
+  background-image: url(/images/icons8-вправо-2-50.png);
+}
 
 .slick-prev:before,
 .slick-next:before {
